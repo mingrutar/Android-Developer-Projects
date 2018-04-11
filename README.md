@@ -9,6 +9,6 @@ Built
 |  |  |  |  |  |
 |:-----|:-----|:-----|:-----|:-----|
 | ![](images/setup_my_location.png) | ![](images/current_trip.png) | ![](images/trip_detail.png) | ![](images/plant_list.png) | ![](images/meetat_user_defined.png) |
-| Setup my location | The upcoming trip | The trip details | The plants I am interested<br>to see at this trip | The meet up places |
+| Setup my location | The home page shows<br> the upcoming trip | The trip details | The plants I am interested<br>to see at this trip | The meet up places |
 | ![](images/plant_detail_not_fav.png) | ![](images/plant_list_on_hike.png) | ![](images/future_trip.png) |![](images/weather.png) | ![](images/widget_1.png) |
-| A detail description<br> about a plant | During the hike, I <br>mark the plant I <br>saw the plant and<br> take photos if I like | List of future trips | Weather report of <br>the hiking day | App widget  |
+| A detail description<br> about a plant | During the hike, I <br>mark the plant I <br>when saw it and take <br>photos if I like | List of future trips | Weather report of <br>the hiking day | App widget  |
