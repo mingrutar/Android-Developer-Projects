@@ -1,10 +1,11 @@
 # Android Projects for [Udacity Android Developer](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
 Built mobile apps  
-* [Naturalist Hike Assistant](#capstone) (Capstone project)
-* [Weather 4 WatchFace](#watchface) (App for Android watch face)
+* [Naturalist Hike Assistant](#capstone) (My Capstone Project)
+* [Weather 4 WatchFace](#watchface) (App for Android Watch Face)
 * [XZY Reader](#xyzreader) (Material Design)
 * [Build It Bigger](#builditbig) (How to Commerialize App)
 * [Stock Hawk](#stockhawk) (Turn a Crashing App into a Product)
+* [Movie Fun](#movieapp) (App for Android Phone and Tablet) 
 
 <a id="capstoen"></a>
 ### [Naturalist Hikers Assistant](https://github.com/mingrutar/Capstone-Project)
@@ -57,3 +58,23 @@ Screen comparison of before and after:
 |  |  |  |  |  |
 |:-----|:-----|:-----|:-----|:-----|
 
+<a id="movieapp"></a>
+## [Movie Fun](https://github.com/mingrutar/movieApp)
+Created the app from scratch. Utilize Android components: RecyclerView, ContentProvider, SyncAdapter and more. Support various android device screen sizes and orientations.  
+
+### Screenshots ###
+
+__Tablet (two pane) Landscape and Portrait__
+
+![land-two-pane](images/P2-tablet-land.png =150x)
+![port-two-pane](images/P2-tablet-port-favor.png =150x)
+
+__Phone Portrait__
+
+![port-main](images/P2-main-port.png =150x)
+![port-detail-favorite](images/P2-detail-port-favor.png =150x)
+
+__Phone Landscape__
+
+![land-main](images/P2-main-land.png =150x)
+![land-detail](images/P2-detail-land.png =150x)
