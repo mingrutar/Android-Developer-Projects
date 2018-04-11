@@ -66,15 +66,13 @@ Created the app from scratch. Utilize Android components: RecyclerView, ContentP
 
 __Tablet (two pane) Landscape and Portrait__
 
-![land-two-pane](images/P2-tablet-land.png =150x)
-![port-two-pane](images/P2-tablet-port-favor.png =150x)
+| Landscape   | Portrait  |
+|:---:|:---:|
+| ![](images/P2-tablet-land.png) | ![](images/P2-tablet-port-favor.png) |
 
-__Phone Portrait__
+__Phone__
 
-![port-main](images/P2-main-port.png =150x)
-![port-detail-favorite](images/P2-detail-port-favor.png =150x)
-
-__Phone Landscape__
-
-![land-main](images/P2-main-land.png =150x)
-![land-detail](images/P2-detail-land.png =150x)
+| Screen 1  | Screen 2  |
+|:---:|:---:|
+| ![port-main](images/P2-main-port.png) | ![port-detail-favorite](images/P2-detail-port-favor.png) |
+| ![land-main](images/P2-main-land.png) | ![land-detail](images/P2-detail-land.png) |
