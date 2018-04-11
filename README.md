@@ -1,11 +1,11 @@
 # Android Projects for [Udacity Android Developer](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
 Built mobile apps  
-* [Naturalist Hike Assistant](#capstone) (My Capstone Project)
+* [Naturalist Hike Assistant](#capstone) (My capstone project)
 * [Weather 4 WatchFace](#watchface) (App for Android Watch Face)
 * [XZY Reader](#xyzreader) (Material Design)
-* [Build It Bigger](#builditbig) (How to Commerialize App)
+* [Build It Bigger](#builditbig) (App commerialization)
 * [Stock Hawk](#stockhawk) (Turn a Crashing App into a Product)
-* [Movie Fun](#movieapp) (App for Android Phone and Tablet) 
+* [Movie Fun](#movieapp) (App for Android phone and tablet) 
 
 <a id="capstoen"></a>
 ### [Naturalist Hikers Assistant](https://github.com/mingrutar/Capstone-Project)
