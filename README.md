@@ -15,7 +15,7 @@ Built mobile apps
 |:-----|:-----|:-----|:-----|:-----|
 | ![](images/setup_my_location.png) | ![](images/current_trip.png) | ![](images/trip_detail.png) | ![](images/plant_list.png) | ![](images/meetat_user_defined.png) |
 | Setup my location | The home page<br> shows the upcoming trip | The trip details | The plants I am interested<br>to see at this trip | The meet up places |
-| ![](images/plant_detail_not_fav.png) | ![](images/plant_list_on_hike.png) | ![](images/future_trip.png) |![](images/weather.png) | ![](images/widget_1.png) |
+| ![](images/plant_detail_fav.png) | ![](images/plant_list_on_hike.png) | ![](images/future_trip.png) |![](images/weather.png) | ![](images/widget_1.png) |
 | A detail description<br> about a plant | During the hike, I <br>can mark the plant <br>when I saw it and take <br>photos if I like | The list of future trips | The weather report of<br>the hiking day | App widget |
 
 <a id="watchface"></a>
@@ -64,15 +64,15 @@ Created the app from scratch. Utilize Android components: RecyclerView, ContentP
 
 ### Screenshots ###
 
-__Tablet (two pane) Landscape and Portrait__
+__Tablet (1 screen 2 panes)__
 
 | Landscape   | Portrait  |
 |:---:|:---:|
 | ![](images/P2-tablet-land.png) | ![](images/P2-tablet-port-favor.png) |
 
-__Phone__
+__Phone (1 pane 2 screens)__
 
-| Screen 1  | Screen 2  |
-|:---:|:---:|
-| ![port-main](images/P2-main-port.png) | ![port-detail-favorite](images/P2-detail-port-favor.png) |
-| ![land-main](images/P2-main-land.png) | ![land-detail](images/P2-detail-land.png) |
+| Orientation | Screen 1  | Screen 2  |
+|---:|:---:|:---:|
+| Portrait | ![port-main](images/P2-main-port.png) | ![port-detail-favorite](images/P2-detail-port-favor.png) |
+| Landscape | ![land-main](images/P2-main-land.png) | ![land-detail](images/P2-detail-land.png) |
