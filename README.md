@@ -26,10 +26,11 @@ Android watch face app that shows weather info. The watch face couples with Suns
 * The Sunshine app fetches weather info periodically and update the watch after sync. 
 * The display of watch face has normal, ambient and low-energy modes, see screenshots. 
 * Tapping watch face 2 times launches Sunshine app at phone.
+
 |  |  |  |  |  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 | ![](images/green_clear.png) | ![](images/blue_snow.png) | ![](images/ambient.png) | ![](images/save_mode.png) | ![](images/no_weatherInfo.png) |
-| connected to phone | blue background | ambient mode | save mode | no weather info |
+| connected to phone<br>*round face* | blue background<br>*round face* | ambient mode<br>*round face* | save mode<br>*square face* | no weather info<br>*square face* |
 
 <a id="xyzreader"></a>
 ### [XYZ Reader](https://github.com/mingrutar/MyXYZReader)
@@ -57,6 +58,7 @@ The project starts with base code that is not production ready: limited function
 * Fixed bugs and tighten up the app for production
 
 Screen comparison of before and after:
+
 |  |  |  |  |  |
 |:-----|:-----|:-----|:-----|:-----|
 
