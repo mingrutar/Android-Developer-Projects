@@ -59,8 +59,20 @@ The project starts with base code that is not production ready: limited function
 
 Screen comparison of before and after:
 
-|  |  |  |  |  |
-|:-----|:-----|:-----|:-----|:-----|
+__The Original App Screens__
+
+|  |  |
+|:-----:|:-----:|
+| ![](images/v0-portrait_sh.png) | ![](images/v0-landscape.png) |
+
+__Re-implemented App Screens__
+
+|  |  |  |  |
+|:-----:|:-----:|:-----:|:-----:|
+| ![](images/v2-portrait.png) | ![](images/v2-portrait-detail.png) | ![](images/dialog.png) | ![](images/RtoL.png) |
+| Portait Normal<br>"+" for add | Portait Detail | Add Stock Dialog | in Arabic |
+| ![](images/v2-landscape.png) | ![](images/v2-landscape-detail_sh.png) | ![](images/v2-landscape-detail2.png) | ![](images/widgets.png) |
+| Landscape Normal | Landscape Detail | Stock History Range | Widget |
 
 <a id="movieapp"></a>
 ## [Movie Fun](https://github.com/mingrutar/movieApp)
