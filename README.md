@@ -7,7 +7,7 @@ Built mobile apps
 * [Stock Hawk](#stockhawk) (Turn a Crashing App into a Product)
 * [Movie Fun](#movieapp) (App for Android phone and tablet) 
 
-<a id="capstoen"></a>
+<a id="capstone"></a>
 ### [Naturalist Hikers Assistant](https://github.com/mingrutar/Capstone-Project)
 <b>Naturalist Hikers Assistant</b> helps hikers prepare for the hike, assists hikers during hiking and helps hikers reviewing their observation. However, the capstone project focuses on pre-trip preparation. See details of capstone project in the document.
 
@@ -35,6 +35,20 @@ Android watch face app that shows weather info. The watch face couples with Suns
 <a id="xyzreader"></a>
 ### [XYZ Reader](https://github.com/mingrutar/MyXYZReader)
 Redesign the app UI to comply with material design. The comparison of before and after redesign (not able to show the added material design style animations)
+
+__The Original App Screens__
+
+|  |  |
+|:-----:|:-----:|
+| ![](images/v0-portrait.png) | ![](images/v0-portrait-detail.png) |
+
+__The Original App Screens__
+
+| Views | Portait | Landscape |
+|:-----:|:-----:|:-----:|
+| Catalog | ![](images/v1-portrait.png) | ![](images/v1-landscape-1.png) |
+| Detail | ![](images/v2-portait-details.png) | ![](images/v2-lanscape-largeimage.png) |
+| Full Image | ![](images/v1-portrait-largeImage.png) | ![](images/v2-landscape-detail.png) |
 
 <a id="builditbig"></a>
 ### [Build It Bigger](https://github.com/mingrutar/BuildItBigger)
