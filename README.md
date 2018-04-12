@@ -42,7 +42,7 @@ __The Original App Screens__
 |:-----:|:-----:|
 | ![](images/v0-portrait.png) | ![](images/v0-portrait-detail.png) |
 
-__The Material Design Screens__
+__My Material Design App Screens__
 
 | Views | Portait | Landscape |
 |:-----:|:-----:|:-----:|
@@ -79,7 +79,7 @@ __The Original App Screens__
 |:-----:|:-----:|
 | ![](images/v0-portrait_sh.png) | ![](images/v0-landscape.png) |
 
-__The Re-implemented App Screens__
+__My Re-implemented App Screens__
 
 |  |  |  |  |
 |:-----:|:-----:|:-----:|:-----:|
