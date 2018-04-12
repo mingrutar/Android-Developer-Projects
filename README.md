@@ -47,8 +47,8 @@ __My Material Design App Screens__
 | Views | Portait | Landscape |
 |:-----:|:-----:|:-----:|
 | Catalog | ![](images/v1-portrait.png) | ![](images/v1-landscape-1.png) |
-| Detail | ![](images/v2-portait-details.png) | ![](images/v2-lanscape-largeimage.png) |
-| Full Image | ![](images/v1-portrait-largeImage.png) | ![](images/v2-landscape-detail.png) |
+| Detail | ![](images/v2-portait-details.png) | ![](images/v2-lanscape-detail.png) |
+| Full Image | ![](images/v1-portrait-largeImage.png) | ![](images/v2-landscape-largeimage.png) |
 
 <a id="builditbig"></a>
 ### [Build It Bigger](https://github.com/mingrutar/BuildItBigger)
