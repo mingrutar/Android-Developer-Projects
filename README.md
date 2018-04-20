@@ -3,7 +3,7 @@ Built mobile apps
 * [Naturalist Hike Assistant](#capstone) (My capstone project)
 * [Weather 4 WatchFace](#watchface) (App for Android Watch Face)
 * [XZY Reader](#xyzreader) (Material Design)
-* [Build It Bigger](#builditbig) (App commerialization)
+* [Build It Bigger](#builditbig) (App commercialization)
 * [Stock Hawk](#stockhawk) (Turn a Crashing App into a Product)
 * [Movie Fun](#movieapp) (App for Android phone and tablet) 
 
@@ -52,7 +52,7 @@ __My Material Design App Screens__
 
 <a id="builditbig"></a>
 ### [Build It Bigger](https://github.com/mingrutar/BuildItBigger)
-Learn how to commercialize via Android app:
+Learn how to add aDworks in Android app:
 * Free and paid versions
 * Google banner image ads and interstitial image ads
 
